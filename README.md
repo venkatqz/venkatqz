@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Kotlin Android App Development .<br>And leveling up my React game with Backend.<br>Trying to maintain leetcode streak.
+I am currently learning Kotlin Android App Development .<br>And leveling up my React game with Backend.
 
 
 ## 🌐 Socials:
